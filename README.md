@@ -43,7 +43,7 @@
 
 
 ### Business Case
-he "IT MOM Alarms Automation" project is a strategic 
+The "IT MOM Alarms Automation" project is a strategic 
 initiative by IT Automation to enhance the reliability of 
 critical IT systems. 
 
